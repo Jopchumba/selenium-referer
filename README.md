@@ -3,7 +3,7 @@
 Sometimes, websites need to have different behavior for cases when users come
 from different sources / search engines. In my use case, our website had to 
 set a tracking cookie which would have different values for users that came
-grom Google, AOL, Yahoo, or MSN. I had to test that the cookie was being set
+from Google, AOL, Yahoo, or MSN. I had to test that the cookie was being set
 correctly for all cases.
 
 When I started writing my test cases, I found that there's no "official" way
